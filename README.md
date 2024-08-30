@@ -1,4 +1,4 @@
-# Classificação de Dados: TCGA, GEO, e Wisconsin
+# Classificação de Dados de Câncer de Mama
 
 Este repositório contém todas as implementações de código de classificação para os conjuntos de dados sobre câncer de mama retirados dos seguintes repositórios: TCGA, GEO, e Wisconsin. Os projetos incluem pré-processamento de dados, treinamento de modelos de classificação e avaliação, com foco em reprodutibilidade e análise robusta.
 

@@ -4,7 +4,7 @@ Este repositório contém todas as implementações de código de classificaçã
 
 ## Bibliotecas e Dependências
 
-Dentro de cada pasta, você encontrará um arquivo (`requirements.txt` para Python ou `DESCRIPTION`/`renv.lock` para R) que especifica todas as versões das bibliotecas utilizadas. Isso garante que as análises possam ser reproduzidas com as mesmas versões das dependências.
+Você encontrará um arquivo (`requirements.txt` para Python ou `DESCRIPTION`/`renv.lock` para R) que especifica todas as versões das bibliotecas utilizadas. Isso garante que as análises possam ser reproduzidas com as mesmas versões das dependências.
 
 ## Estrutura e Descrição do Repositório
 
